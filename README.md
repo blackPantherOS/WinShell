@@ -9,3 +9,12 @@ We intend this primarily for companies and schools to facilitate the gradual tra
 
 ## Toolkit
 - Qt6 > 6.11.x
+- KF6 modules > 6.3x
+
+# Desktops
+- Wayland
+- X11/XLibre
+
+# Dependency
+- WSExplorer (other blackPanther Project)
+
